@@ -25,14 +25,14 @@ Pursuing Electronics & Communication Engineering.
 
 
 
-### Certifications:
+<!-- ### Certifications: -->
 
 
-<img align="left" alt="Microsoft Certified : Azure AI Fundamentals" src="https://images.youracclaim.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100" height="100" />
+<!-- <img align="left" alt="Microsoft Certified : Azure AI Fundamentals" src="https://images.youracclaim.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100" height="100" />
 
 <img align="left" alt="Microsoft Certified : Azure AI Engineer" src="https://miro.medium.com/max/1200/1*osrSBsTxaaB3cLK8C0FXzg.png" width="100" height="100" />
 
-<img align="left" alt="Microsoft Certified : Azure Data Scientist" src="https://miro.medium.com/max/600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" width="100" height="100" />
+<img align="left" alt="Microsoft Certified : Azure Data Scientist" src="https://miro.medium.com/max/600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" width="100" height="100" /> -->
 
 
 <br/><hr/>
