@@ -35,7 +35,7 @@ Pursuing Electronics & Communication Engineering.
 <img align="left" alt="Microsoft Certified : Azure Data Scientist" src="https://miro.medium.com/max/600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" width="100" height="100" />
 
 
-<br>
+<br/><hr/>
 
 ### Connect with me:
 
@@ -49,7 +49,7 @@ Pursuing Electronics & Communication Engineering.
 
 <br/><hr/>
 
-:zap: Github Stats
+<!-- :zap: Github Stats -->
 
 
   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanahuja&theme=dracula&layout=compact" /> -->
