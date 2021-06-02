@@ -5,7 +5,7 @@ Currently PreFinal Year Student at **_NIT Jalandhar_.**
 Pursuing Electronics & Communication Engineering.
 
 - Always looking ahead to learn & gain something new out of the box.
-- **Apart from Coding, I'm a cloud, ML and Data Science enthusiast!**
+- **Apart from Coding, I'm a Web Development enthusiast!**
 
 <hr/>
 
